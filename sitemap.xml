@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://codd.com/</loc>
+	<lastmod>2021-02-22</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://codd.com/img/Копия%20aI6Nw_iTZV8.png</image:loc>
+	<image:title>Копия%2520aI6Nw_iTZV8</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://codd.com/img/Снимок%20экрана%202021-02-22%20в%2023.17.13.png</image:loc>
+	<image:title>Снимок%2520экрана%25202021%2002-22%2520в%252023.17.13</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://codd.com/img/Снимок%20экрана%202021-02-22%20в%2023.22.56.png</image:loc>
+	<image:title>placeholder%20image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://codd.com/img/Снимок%20экрана%202021-02-22%20в%2023.23.14.png</image:loc>
+	<image:title>placeholder%20image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://codd.com/img/Снимок%20экрана%202021-02-22%20в%2023.23.29.png</image:loc>
+	<image:title>placeholder%20image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://codd.com/img/Снимок%20экрана%202021-02-22%20в%2023.23.43.png</image:loc>
+	<image:title>placeholder%20image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://codd.com/img/Снимок%20экрана%202021-02-22%20в%2023.23.52.png</image:loc>
+	<image:title>placeholder%20image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://codd.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://codd.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
