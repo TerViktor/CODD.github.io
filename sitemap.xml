@@ -90,30 +90,6 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://terviktor.github.io/CODD.github.io/img/Снимок%20экрана%202021-02-22%20в%2023.17.13.png</image:loc>
-	<image:title>Снимок%2520экрана%25202021%2002-22%2520в%252023.17.13</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://terviktor.github.io/CODD.github.io/img/Снимок%20экрана%202021-02-22%20в%2023.22.56.png</image:loc>
-	<image:title>placeholder%20image-sq</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://terviktor.github.io/CODD.github.io/img/Снимок%20экрана%202021-02-22%20в%2023.23.14.png</image:loc>
-	<image:title>placeholder%20image-sq</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://terviktor.github.io/CODD.github.io/img/Снимок%20экрана%202021-02-22%20в%2023.23.29.png</image:loc>
-	<image:title>placeholder%20image-sq</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://terviktor.github.io/CODD.github.io/img/Снимок%20экрана%202021-02-22%20в%2023.23.43.png</image:loc>
-	<image:title>placeholder%20image-sq</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://terviktor.github.io/CODD.github.io/img/Снимок%20экрана%202021-02-22%20в%2023.23.52.png</image:loc>
-	<image:title>placeholder%20image-sq</image:title>
-	</image:image>
-	<image:image>
 	<image:loc>https://terviktor.github.io/CODD.github.io/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
@@ -127,6 +103,18 @@
 	<lastmod>2021-02-23</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/unnamed.jpg</image:loc>
+	<image:title>slide%201</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/14981589429143_1920x1200.jpg</image:loc>
+	<image:title>slide%202</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/1051341-lighting-mcqueen-wallpaper-1920x1200-4k.jpg</image:loc>
+	<image:title>slide%203</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>https://terviktor.github.io/CODD.github.io/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
