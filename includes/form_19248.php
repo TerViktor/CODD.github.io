@@ -6,6 +6,7 @@
 	
 	$name_19248 = $_POST['name_19248'];
 	$ = $_POST[''];
+	$select_538 = $_POST['select_538'];
 	$message_19248 = $_POST['message_19248'];
 	$optin_19248 = $_POST['optin_19248'];
 	
@@ -14,7 +15,7 @@
 	// Create email	
 	$email_subject = "CODD";
 	$email_body = "+1 сообщение \n\n".
-				  "Name_19248: $name_19248 \n: $ \nMessage_19248: $message_19248 \nOptin_19248: $optin_19248 \n";
+				  "Name_19248: $name_19248 \n: $ \nSelect_538: $select_538 \nMessage_19248: $message_19248 \nOptin_19248: $optin_19248 \n";
 	$headers = "MIME-Version: 1.0\r\nContent-type: text/plain; charset=UTF-8\r\n";	
 	$headers .= "From: terehovich_vg@mail.ru\n";
 	$headers .= "Reply-To: $";	
