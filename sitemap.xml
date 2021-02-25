@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-	<loc>https://terviktor.github.io/CODD.github.io/</loc>
-	<lastmod>2021-02-23</lastmod>
+	<loc>https://terviktor.github.io/codd.github.io/about.html</loc>
+	<lastmod>2021-02-25</lastmod>
 	<changefreq>Weekly</changefreq>
-	<priority>1.0</priority>
+	<priority>0.5</priority>
 	<image:image>
 	<image:loc>https://terviktor.github.io/CODD.github.io/img/Копия%20aI6Nw_iTZV8.png</image:loc>
 	<image:title>Копия%2520aI6Nw_iTZV8</image:title>
@@ -44,7 +44,7 @@
 </url>
 <url>
 	<loc>https://terviktor.github.io/codd.github.io/documents.html</loc>
-	<lastmod>2021-02-23</lastmod>
+	<lastmod>2021-02-25</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -58,7 +58,7 @@
 </url>
 <url>
 	<loc>https://terviktor.github.io/codd.github.io/activity.html</loc>
-	<lastmod>2021-02-23</lastmod>
+	<lastmod>2021-02-25</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -72,7 +72,7 @@
 </url>
 <url>
 	<loc>https://terviktor.github.io/codd.github.io/pdd.html</loc>
-	<lastmod>2021-02-23</lastmod>
+	<lastmod>2021-02-25</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -86,7 +86,7 @@
 </url>
 <url>
 	<loc>https://terviktor.github.io/codd.github.io/maps.html</loc>
-	<lastmod>2021-02-23</lastmod>
+	<lastmod>2021-02-25</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -100,19 +100,19 @@
 </url>
 <url>
 	<loc>https://terviktor.github.io/codd.github.io/news.html</loc>
-	<lastmod>2021-02-23</lastmod>
+	<lastmod>2021-02-25</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
-	<image:loc>https://terviktor.github.io/CODD.github.io/img/unnamed.jpg</image:loc>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/thai-an-FDCuK-B_f3A-unsplash.jpg</image:loc>
 	<image:title>slide%201</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://terviktor.github.io/CODD.github.io/img/14981589429143_1920x1200.jpg</image:loc>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/nik-ramzi-nik-hassan-44oVND516_k-unsplash.jpg</image:loc>
 	<image:title>slide%202</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://terviktor.github.io/CODD.github.io/img/1051341-lighting-mcqueen-wallpaper-1920x1200-4k.jpg</image:loc>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/alexander-schimmeck-L27LlaDvqlk-unsplash.jpg</image:loc>
 	<image:title>slide%203</image:title>
 	</image:image>
 	<image:image>
@@ -126,7 +126,7 @@
 </url>
 <url>
 	<loc>https://terviktor.github.io/codd.github.io/contacts.html</loc>
-	<lastmod>2021-02-23</lastmod>
+	<lastmod>2021-02-25</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -140,9 +140,51 @@
 </url>
 <url>
 	<loc>https://terviktor.github.io/codd.github.io/answers.html</loc>
-	<lastmod>2021-02-23</lastmod>
+	<lastmod>2021-02-25</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://terviktor.github.io/CODD.github.io/</loc>
+	<lastmod>2021-02-25</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/Копия%20aI6Nw_iTZV8.png</image:loc>
+	<image:title>Копия%2520aI6Nw_iTZV8</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/Снимок%20экрана%202021-02-22%20в%2023.17.13.png</image:loc>
+	<image:title>Снимок%2520экрана%25202021%2002-22%2520в%252023.17.13</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/Снимок%20экрана%202021-02-22%20в%2023.22.56.png</image:loc>
+	<image:title>placeholder%20image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/Снимок%20экрана%202021-02-23%20в%2011.55.20.png</image:loc>
+	<image:title>placeholder%20image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/Снимок%20экрана%202021-02-22%20в%2023.23.29.png</image:loc>
+	<image:title>placeholder%20image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/Снимок%20экрана%202021-02-23%20в%2011.55.37.png</image:loc>
+	<image:title>placeholder%20image-sq</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://terviktor.github.io/CODD.github.io/img/Снимок%20экрана%202021-02-22%20в%2023.23.52.png</image:loc>
+	<image:title>placeholder%20image-sq</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>https://terviktor.github.io/CODD.github.io/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
